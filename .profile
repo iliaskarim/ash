@@ -1,0 +1,3 @@
+date
+date -u
+echo
