@@ -1,3 +1,4 @@
 date
 date -u
-echo
+
+PS1="\n$PS1"
